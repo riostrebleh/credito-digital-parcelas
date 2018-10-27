@@ -1,0 +1,27 @@
+{
+  "name": "parcelas",
+  "version": "1.0.0",
+  "description": "Cria as parcelas de uma operação de crédito.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riostrebleh/credito-digital-parcelas.git"
+  },
+  "keywords": [
+    "parcelas"
+  ],
+  "author": "@riostrebleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riostrebleh/credito-digital-parcelas/issues"
+  },
+  "homepage": "https://github.com/riostrebleh/credito-digital-parcelas#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
